@@ -1,2 +1,3 @@
-# strendus
-Landing published by Deploy Service
+# Strendus
+
+Published by Deploy Service.
